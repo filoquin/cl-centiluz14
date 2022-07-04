@@ -171,7 +171,7 @@
         'https://github.com/ingadhoc/multi-store ingadhoc-multi-store',
 
         # themes
-        'git@github.com:odoo/design-themes.git odoo-themes',
+        'https://github.com/odoo/design-themes.git odoo-themes',
         
     ],
 
