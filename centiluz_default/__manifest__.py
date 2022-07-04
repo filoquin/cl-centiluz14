@@ -19,10 +19,10 @@
 ##############################################################################
 
 {
-    'name': 'Localizacion15',
+    'name': 'centiluz',
     'version': '15.0.1.0.0',
     'category': 'Tools',
-    'summary': "Test for v15 CE",
+    'summary': "Centiluz for v15 CE",
     'author': "jeo Software",
     'website': 'http://github.com/filoquin/cl-localizacion15',
     'license': 'AGPL-3',
@@ -64,10 +64,10 @@
                 'limit_memory_hard = 2684354560',
     ],
 
-    'port': '8015',
+    'port': '8069',
 
     'git-repos': [
-        'git@github.com:filoquin/cl-localizacion15.git',
+        'https://github.com/filoquin/cl-centiluz.git',
 
         # OCA
         'https://github.com/OCA/server-tools oca-server-tools',
