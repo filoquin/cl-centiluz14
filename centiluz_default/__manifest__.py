@@ -129,8 +129,6 @@
         'https://github.com/OCA/margin-analysis oca-margin-analysis -b 14.0',
         'https://github.com/OCA/payroll oca-payroll -b 14.0',
         'https://github.com/OCA/hr-holidays oca-hr-holidays -b 14.0',
-        'https://github.com/OCA/role-policy oca-role-policy -b 14.0',
-        'https://github.com/OCA/apps-store oca-apps-store -b 14.0',
         'https://github.com/OCA/rest-framework rest-framework -b 14.0',
         'https://github.com/OCA/brand rest-brand -b 14.0',
         'https://github.com/OCA/report-print-send oca-report-print-send -b 14.0',
