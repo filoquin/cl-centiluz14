@@ -19,7 +19,7 @@
 ##############################################################################
 
 {
-    'name': 'centiluz',
+    'name': 'centiluz14',
     'version': '14.0.1.0.0',
     'category': 'Tools',
     'summary': "Centiluz for v14 CE",
@@ -171,7 +171,7 @@
         #'https://github.com/ingadhoc/multi-store ingadhoc-multi-store -b 14.0',
 
         # themes
-        'https://github.com/odoo/design-themes.git odoo-themes',
+        'https://github.com/odoo/design-themes.git odoo-themes -b 14.0',
         
     ],
 
